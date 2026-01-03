@@ -1,6 +1,6 @@
 # 🎬 AI Video Generator: The Zero-Cost AI Filmmaker
 
-**Generate professional, 9:16 vertical short films with coherent storytelling, dual-camera angles, and original music—running 100% free on Google Colab (T4 GPU).**
+**Generate professional, 9:16 vertical short films with coherent storytelling, dual-camera angles, and original music, running 100% free on Google Colab (T4 GPU).**
 
 ## 🚀 Features
 
